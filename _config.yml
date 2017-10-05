@@ -1,15 +1,14 @@
 # Site settings
-title: Dony Purnama | Web Developer
+title: blog.lukmannulhakim.com
 header-img: img/indo-home-bg.jpg
-email: dony.purnama@gmail.com
-copyright_name: Dony Purnama
-description: "I'm a location-independent web developer, originally from Tasikmalaya West Java. Tie the science with writing!!"
+email: ahmad@lukmannulhakim.com
+copyright_name: lukmannulhakim
+description: "Just write and share"
 baseurl: ""
-url: "http://donypurnama.github.io/"
-twitter_username: donypurnama
-github_username:  donypurnama
-facebook_username:  donypurnama
-email_username:  dony.purnama@gmail.com
+url: "http://blog.lukmannulhakim.com/"
+github_username:  lukmannulhakim
+facebook_username:  ahmadlukmannulhakim
+email_username:  ahmadlukmannulhakim@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
