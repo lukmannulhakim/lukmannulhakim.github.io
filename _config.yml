@@ -1,0 +1,25 @@
+# Site settings
+title: Dony Purnama | Web Developer
+header-img: img/indo-home-bg.jpg
+email: dony.purnama@gmail.com
+copyright_name: Dony Purnama
+description: "I'm a location-independent web developer, originally from Tasikmalaya West Java. Tie the science with writing!!"
+baseurl: ""
+url: "http://donypurnama.github.io/"
+twitter_username: donypurnama
+github_username:  donypurnama
+facebook_username:  donypurnama
+email_username:  dony.purnama@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
